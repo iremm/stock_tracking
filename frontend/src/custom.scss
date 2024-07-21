@@ -1,0 +1,13 @@
+.dash_item_card {
+  background-color: #b6b6b6; /* Gri tonu */
+  border-radius: 20px;
+  color: #000000; /* Siyah yazı */
+  padding: 10px;
+
+  &:hover {
+    background-color: #875fe5; /* Hover durumunda rengi değiştir */
+    color: #000000; /* Hover durumunda yazı rengini beyaz yap */
+    transition: background-color 0.3s ease;
+  }
+}
+
