@@ -140,3 +140,15 @@ C:\Users\irem\Desktop\projects\c-sharp___react\backend\obj\Debug\net8.0\refint\b
 C:\Users\irem\Desktop\projects\c-sharp___react\backend\obj\Debug\net8.0\backend.pdb
 C:\Users\irem\Desktop\projects\c-sharp___react\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 C:\Users\irem\Desktop\projects\c-sharp___react\backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\irem\Desktop\projects\c#-react\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+C:\Users\irem\Desktop\projects\c#-react\backend\obj\Debug\net8.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irem\Desktop\projects\c#-react\backend\obj\Debug\net8.0\backend.AssemblyInfoInputs.cache
+C:\Users\irem\Desktop\projects\c#-react\backend\obj\Debug\net8.0\backend.AssemblyInfo.cs
+C:\Users\irem\Desktop\projects\c#-react\backend\obj\Debug\net8.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\irem\Desktop\projects\c#-react\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\irem\Desktop\projects\c#-react\backend\obj\Debug\net8.0\backend.RazorAssemblyInfo.cache
+C:\Users\irem\Desktop\projects\c#-react\backend\obj\Debug\net8.0\backend.RazorAssemblyInfo.cs
+C:\Users\irem\Desktop\projects\c#-react\backend\obj\Debug\net8.0\backend.sourcelink.json
+C:\Users\irem\Desktop\projects\c#-react\backend\obj\Debug\net8.0\backend.dll
+C:\Users\irem\Desktop\projects\c#-react\backend\obj\Debug\net8.0\refint\backend.dll
+C:\Users\irem\Desktop\projects\c#-react\backend\obj\Debug\net8.0\backend.pdb
